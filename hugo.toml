@@ -1,6 +1,32 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Jonathan Taylor | Portfolio'
-theme = 'LofiCode'
- 
- 
+baseURL = "http://localhost:1313/"
+title = "Jonathan Taylor"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+
+# Top nav
+[[menu.main]]
+  name = "Projects"
+  url  = "/projects/"
+  weight = 10
+
+[[menu.main]]
+  name = "About"
+  url  = "/about/"
+  weight = 20
+
+[[menu.main]]
+  name = "Contact"
+  url  = "/contact/"
+  weight = 30
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
