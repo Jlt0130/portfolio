@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://jonathan-taylor-portfolio.netlify.app"
 title = "Jonathan Taylor"
 theme = "PaperMod"
 enableRobotsTXT = true
