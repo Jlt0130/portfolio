@@ -10,6 +10,25 @@ enableRobotsTXT = true
   ShowShareButtons = false
   ShowPostNavLinks = true
 
+[params.profileMode]
+  enabled = true
+  title = "Jonathan Taylor"
+  subtitle = "MBA & MS in Applied Data Analytics | Data-Driven Business Strategist"
+  imageUrl = "/images/headshot.jpg"
+  imageWidth = 220
+  imageHeight = 220
+  imageTitle = "Jonathan Taylor"
+
+  # Buttons that appear under your intro
+  buttons = [
+    { name = "Projects", url = "/projects/" },
+    { name = "About", url = "/about/" },
+    { name = "Contact", url = "/contact/" }
+  ]
+
+# Optional: makes homepage only show profile section (no list of posts)
+mainSections = ["projects"]
+
 # Top nav
 [[menu.main]]
   name = "Projects"
