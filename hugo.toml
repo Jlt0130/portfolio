@@ -16,7 +16,7 @@ enableRobotsTXT = true
   subtitle = "MBA & MS in Applied Data Analytics | Data-Driven Business Strategist"
   imageUrl = "/images/headshot.jpg"
   imageWidth = 220
-  imageHeight = 330
+  imageHeight = 320
   imageTitle = "Jonathan Taylor"
 
   # Buttons that appear under your intro
