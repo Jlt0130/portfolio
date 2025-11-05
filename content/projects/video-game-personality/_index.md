@@ -8,7 +8,7 @@ hideMeta = true
 url = "/projects/video-game-personality/"
 
 [cover]
-  image = ""
+  image = "/images/game_self_personality_poster.png"
   alt   = "Video Games and Personality"
   relative = false
 +++

@@ -8,7 +8,7 @@ hideMeta = true
 url = "/projects/fossil-fuel-forecast/"
 
 [cover]
-  image = "/images/projects/fossilfuel/cover.png"
+  image = "/images/arima2_forecast.png"
   alt   = "ARIMA forecast visualization"
   relative = false
 +++

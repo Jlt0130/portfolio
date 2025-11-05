@@ -8,7 +8,7 @@ hideMeta = true
 url = "/projects/cullowhee-park-analysis/"
 
 [cover]
-  image = "/images/projects/cullowhee/cover.png"
+  image = "/images/cullowhee_bca.png"
   alt   = "Benefit-cost analysis chart"
   relative = false
 +++

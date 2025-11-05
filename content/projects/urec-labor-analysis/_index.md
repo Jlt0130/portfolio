@@ -8,7 +8,7 @@ hideMeta = true
 url = "/projects/urec-labor-analysis/"
 
 [cover]
-  image = "/images/projects/urec/cover.png"
+  image = "/images/urec_dashboard.png"
   alt   = "Labor discrepancy dashboard"
   relative = false
 +++

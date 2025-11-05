@@ -8,7 +8,7 @@ hideMeta = true
 url = "/projects/torpedo-bats-regression/"
 
 [cover]
-  image = "/images/projects/torpedo-bats/cover.png"
+  image = "/images/torpedo_bats_regression.png"
   alt   = "Baseball analytics regression visualization"
   relative = false
 +++

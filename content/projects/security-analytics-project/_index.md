@@ -8,7 +8,7 @@ hideMeta = true
 url = "/projects/security-analytics/"
 
 [cover]
-  image = "/images/projects/security/cover.png"
+  image = "/images/security_analytics_cover.png"
   alt   = "Splunk dashboard"
   relative = false
 +++
@@ -29,3 +29,4 @@ url = "/projects/security-analytics/"
 **Links**
 - [GitHub Repo](https://github.com/jlt0130/security-analytics-splunk)
 - [PDF Report](/documents/security_analytics_splunk.pdf)
+- [PDF Dashboard](/documents/security_analytics_dashboard.pdf)

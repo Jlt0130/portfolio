@@ -8,7 +8,7 @@ hideMeta = true
 url = "/projects/urec-facility-access/"
 
 [cover]
-  image = "/images/projects/facility/cover.png"
+  image = "/images/facility_heatmap.png"
   alt   = "Facility usage visualization"
   relative = false
 +++
