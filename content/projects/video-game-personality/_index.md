@@ -14,18 +14,16 @@ url = "/projects/video-game-personality/"
 +++
 
 **What I did**
+- Completed a full literature review of studies conducted on personality and identity within video games or virtual contexts.
 - Designed and executed a 190-participant survey comparing real-life vs. online self-perceptions in gaming contexts
 - Applied repeated-measures ANOVAs to assess Big Five personality and body-esteem differences between contexts.
-- Found statistically significant increases in perceived extraversion and emotional stability online, supporting theories of online identity experimentation.
-- Results contribute to understanding how self-perception changes in digital spaces, applicable to UX and consumer behavior analytics.
 
 **Results**
-- Demonstrated measurable personality shifts between real and virtual environments.
-- Added behavioral-science depth to analytics portfolio.
+- Found statistically significant increases in perceived extraversion and emotional stability online, supporting theories of online identity experimentation.
+- Results contribute to understanding how self-perception changes in digital spaces, applicable to UX and consumer behavior analytics.
 
 **Tools**
 - SPSS, Qualtrics, Excel
 
 **Links**
-- [GitHub Repo](https://github.com/jlt0130/game-self-personality-study)
 - [PDF Report](/documents/game_self_personality_study.pdf)

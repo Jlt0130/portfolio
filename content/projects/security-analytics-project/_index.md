@@ -27,6 +27,5 @@ url = "/projects/security-analytics/"
 - Splunk SPL, Security Log Analysis
 
 **Links**
-- [GitHub Repo](https://github.com/jlt0130/security-analytics-splunk)
 - [PDF Report](/documents/security_analytics_splunk.pdf)
 - [PDF Dashboard](/documents/security_analytics_dashboard.pdf)

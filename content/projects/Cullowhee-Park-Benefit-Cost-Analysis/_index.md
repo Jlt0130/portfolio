@@ -27,5 +27,4 @@ url = "/projects/cullowhee-park-analysis/"
 - Excel, Monte Carlo Simulations, Economic Modeling
 
 **Links**
-- [GitHub Repo](https://github.com/jlt0130/cullowhee-bca)
 - [PDF Report](/documents/cullowhee_bca.pdf)
