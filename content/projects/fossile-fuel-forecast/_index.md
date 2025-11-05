@@ -28,4 +28,4 @@ url = "/projects/fossil-fuel-forecast/"
 
 **Links**
 - [GitHub Repo](#)
-- [PDF Report](#)
+- [PDF Report](/documents/us_fossil_fuel_forecast.pdf)

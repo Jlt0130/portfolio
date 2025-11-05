@@ -28,4 +28,4 @@ url = "/projects/urec-facility-access/"
 
 **Links**
 - [GitHub Repo](#)
-- [PDF Report](#)
+- [PDF Report](/documents/urec_facility_access.pdf)

@@ -28,4 +28,4 @@ url = "/projects/cullowhee-park-analysis/"
 
 **Links**
 - [GitHub Repo](#)
-- [PDF Report](#)
+- [PDF Report](/documents/cullowhee_bca.pdf)
