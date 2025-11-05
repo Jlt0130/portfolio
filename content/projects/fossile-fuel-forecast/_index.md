@@ -27,5 +27,5 @@ url = "/projects/fossil-fuel-forecast/"
 - R, ggplot2, Forecasting, dplyr
 
 **Links**
-- [GitHub Repo](#)
+- [GitHub Repo](https://github.com/jlt0130/us-fossil-fuel-forecast)
 - [PDF Report](/documents/us_fossil_fuel_forecast.pdf)

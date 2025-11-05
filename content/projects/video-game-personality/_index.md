@@ -27,4 +27,5 @@ url = "/projects/video-game-personality/"
 - SPSS, Qualtrics, Excel
 
 **Links**
-- [GitHub Repo](#)
+- [GitHub Repo](https://github.com/jlt0130/game-self-personality-study)
+- [PDF Report](/documents/game_self_personality_study.pdf)

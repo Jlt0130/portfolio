@@ -27,5 +27,5 @@ url = "/projects/urec-facility-access/"
 - Python, Pandas, Matplotlib, Seaborn
 
 **Links**
-- [GitHub Repo](#)
+- [GitHub Repo](https://github.com/jlt0130/urec-facility-access)
 - [PDF Report](/documents/urec_facility_access.pdf)

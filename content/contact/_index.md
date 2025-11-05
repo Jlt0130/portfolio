@@ -11,7 +11,7 @@ title = 'Contact'
 🔗 **LinkedIn:** [linkedin.com/in/jlt0130](https://www.linkedin.com/in/jlt0130/)  
 💻 **GitHub:** [github.com/jlt0130](https://github.com/jlt0130)  
 
-Whether you’re hiring, collaborating, or just swapping ideas, feel free to reach out — I usually respond within a day or two.
+Whether you’re hiring, collaborating, or just swapping ideas, feel free to reach out. I usually respond within a day or two.
 
 📄 [Download Resume (PDF)](/documents/Jonathan_Taylor_Analytics_Resume.pdf)
 

@@ -27,5 +27,6 @@ url = "/projects/urec-labor-analysis/"
 - SQL, Power BI, Excel, Python
 
 **Links**
-- [GitHub Repo](#)
+- [GitHub Repo](https://github.com/jlt0130/urec-labor-discrepancy)
 - [PDF Report](/documents/urec_labor_discrepancy.pdf)
+- [Power BI Dashboard](/documents/urec_labor_dashboard.pbix)

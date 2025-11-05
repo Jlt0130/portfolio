@@ -29,6 +29,6 @@ url = "/projects/torpedo-bats-regression/"
 - Python, pandas, numpy, statsmodels, matplotlib, seaborn
 
 **Links**
-- [GitHub Repo](#)
+- [GitHub Repo](https://github.com/jlt0130/torpedo-bats)
 - [Notebook (HTML)](#)
 - [PDF Report](/documents/torpedo_bats.pdf)
