@@ -6,7 +6,7 @@ enableRobotsTXT = true
 [params]
   defaultTheme = "auto"
   ShowReadingTime = true
-  ShowBreadCrumbs = true
+  ShowBreadCrumbs = false
   ShowShareButtons = false
   ShowPostNavLinks = true
 

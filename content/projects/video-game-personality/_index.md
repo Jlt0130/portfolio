@@ -1,5 +1,5 @@
 +++
-title = "Video Games and Personality"
+title = "Real-Self vs. Game-Self: Understanding Personality and Behavior Across Contexts"
 summary = "Using survey data to assess how video game play and self-perception interact."
 date = "2023-12-01"
 tags = ["SPSS", "Psychology", "Video Games"]
@@ -14,10 +14,17 @@ url = "/projects/video-game-personality/"
 +++
 
 **What I did**
-- Using survey data to assess how video game play and self-perception interact.
+- Designed and executed a 190-participant survey comparing real-life vs. online self-perceptions in gaming contexts
+- Applied repeated-measures ANOVAs to assess Big Five personality and body-esteem differences between contexts.
+- Found statistically significant increases in perceived extraversion and emotional stability online, supporting theories of online identity experimentation.
+- Results contribute to understanding how self-perception changes in digital spaces, applicable to UX and consumer behavior analytics.
 
 **Results**
-- finished
+- Demonstrated measurable personality shifts between real and virtual environments.
+- Added behavioral-science depth to analytics portfolio.
+
+**Tools**
+- SPSS, Qualtrics, Excel
 
 **Links**
 - [GitHub Repo](#)
