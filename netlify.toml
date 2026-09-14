@@ -1,0 +1,4 @@
+# Keep links and assets on the review site when building a pull-request preview.
+# Production continues to use the site's existing build settings and hugo.toml URL.
+[context.deploy-preview]
+  command = 'hugo --gc --minify --baseURL "$DEPLOY_PRIME_URL/"'

@@ -1,0 +1,60 @@
+{{- define "main" -}}
+<div class="portfolio-home">
+  <section class="intro" aria-labelledby="intro-heading">
+    <div class="intro-copy">
+      <p class="eyebrow">Data intelligence · Operations · People</p>
+      <h1 id="intro-heading">Helping teams solve complex data problems.</h1>
+      <p class="intro-description">I'm Jonathan Taylor, a Senior Data Intelligence Specialist at Foodbuy. I work across database workflows, reconciliation, dashboards, and process development, helping establish a new team focused on complex data management challenges.</p>
+      <div class="intro-actions">
+        <a class="action-primary" href="{{ "/experience/" | relURL }}">Explore my current work <span aria-hidden="true">↗</span></a>
+        <a class="action-secondary" href="{{ "/contact/" | relURL }}">Get in touch</a>
+      </div>
+    </div>
+    <figure class="portrait">
+      <img src="{{ "/images/headshot.jpg" | relURL }}" width="260" height="340" alt="Jonathan Taylor" fetchpriority="high">
+      <figcaption>Jonathan Taylor<span>Business, analytics &amp; psychology</span></figcaption>
+    </figure>
+  </section>
+
+  <section class="current-summary" aria-labelledby="current-heading">
+    <div>
+      <p class="eyebrow">Current role · March 2026–present</p>
+      <h2 id="current-heading">Senior Data Intelligence Specialist</h2>
+      <p class="employer">Foodbuy</p>
+    </div>
+    <div>
+      <p>Helping establish a team, scale processes with internal partners, and adopt new technology, including AI. My direction is analytics leadership, with a focus on the people and processes behind the data.</p>
+      <ul class="expertise" aria-label="Current areas of work">
+        <li>Snowflake workflows</li><li>Reconciliation</li><li>Dashboarding</li><li>Process development</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="selected-work" aria-labelledby="selected-heading">
+    <div class="section-heading">
+      <div><p class="eyebrow">Selected work</p><h2 id="selected-heading">From the question to the evidence.</h2></div>
+      <a class="text-link" href="{{ "/projects/" | relURL }}">All project work <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="work-grid">
+      <article class="work-card current-card">
+        <p class="card-category">Data intelligence · Ongoing</p>
+        <h3><a href="{{ "/experience/" | relURL }}">Building workflows and ways of working</a></h3>
+        <p>My current responsibilities at Foodbuy, from Snowflake and reconciliation to stakeholder collaboration and team development.</p>
+        <a class="card-link" href="{{ "/experience/" | relURL }}">Read about my role <span aria-hidden="true">→</span></a>
+      </article>
+      {{ with site.GetPage "/projects" }}
+        {{ range where .Sections.ByWeight "Params.featured" true }}
+          {{ partial "work_card.html" . }}
+        {{ end }}
+      {{ end }}
+    </div>
+  </section>
+
+  <section class="background-note" aria-labelledby="background-heading">
+    <p class="eyebrow">A broader perspective</p>
+    <h2 id="background-heading">Business context. Analytical depth. An understanding of people.</h2>
+    <p>My MBA, MS in Applied Data Analytics, and psychology background inform how I approach problems. Earlier work in recreation operations and student-staff leadership connects that foundation to practical experience.</p>
+    <a class="text-link" href="{{ "/about/" | relURL }}">More about my background <span aria-hidden="true">→</span></a>
+  </section>
+</div>
+{{ end }}

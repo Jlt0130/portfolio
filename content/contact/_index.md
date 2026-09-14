@@ -1,18 +1,17 @@
 +++
-date = '2025-11-03T12:45:33-05:00'
-draft = false
-title = 'Contact'
+title = "Contact"
+description = "Connect with Jonathan Taylor about data intelligence, analytics leadership, and operational problem-solving."
+layout = "detail"
+showtoc = false
+hideMeta = true
 +++
 
-<div style="text-align:center; max-width:600px; margin:auto;">
+## Let's talk about the work.
 
-📧 **Email:** [jonlamartaylor@gmail.com](mailto:jonlamartaylor@gmail.com)
+I'm interested in conversations about analytics leadership, complex data challenges, and helping teams develop effective processes.
 
-🔗 **LinkedIn:** [linkedin.com/in/jlt0130](https://www.linkedin.com/in/jlt0130/)  
-💻 **GitHub:** [github.com/jlt0130](https://github.com/jlt0130)  
+- **Email:** [jonlamartaylor@gmail.com](mailto:jonlamartaylor@gmail.com)
+- **LinkedIn:** [linkedin.com/in/jlt0130](https://www.linkedin.com/in/jlt0130/)
+- **GitHub:** [github.com/Jlt0130](https://github.com/Jlt0130)
 
-Whether you’re hiring, collaborating, or just swapping ideas, feel free to reach out. I usually respond within a day or two.
-
-📄 [Download Resume (PDF)](/documents/Jonathan_Taylor_Analytics_Resume.pdf)
-
-</div>
+For background on my role and responsibilities, see [my current work](/experience/) and [About](/about/). My [project case studies](/projects/) include downloadable reports and examples of earlier analytical work.

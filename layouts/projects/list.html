@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div class="portfolio-projects">
+  <header class="page-header">
+    <p class="eyebrow">Operations · Research · Modeling</p>
+    <h1>{{ .Title }}</h1>
+  </header>
+  <div class="post-content project-introduction">{{ .Content }}</div>
+  <div class="work-grid project-grid">
+    {{ range .Sections.ByWeight }}{{ partial "work_card.html" . }}{{ end }}
+  </div>
+</div>
+{{ end }}

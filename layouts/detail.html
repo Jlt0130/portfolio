@@ -1,0 +1,12 @@
+{{- define "main" -}}
+<article class="post-single portfolio-page">
+  <header class="post-header">
+    {{ with .Params.category }}<p class="eyebrow">{{ . }}</p>{{ end }}
+    <h1 class="post-title">{{ .Title }}</h1>
+  </header>
+  <div class="post-content">{{ .Content }}</div>
+  {{ if eq .Section "projects" }}
+  <footer class="case-footer"><a class="text-link" href="{{ "/projects/" | relURL }}">← All project work</a></footer>
+  {{ end }}
+</article>
+{{ end }}

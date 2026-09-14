@@ -1,0 +1,6 @@
+<article class="work-card">
+  <p class="card-category">{{ .Params.category }}{{ with .Params.period }} · {{ . }}{{ end }}</p>
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  <p>{{ .Summary | plainify }}</p>
+  <a class="card-link" href="{{ .RelPermalink }}">Read the case study <span class="sr-only">: {{ .Title }}</span> <span aria-hidden="true">→</span></a>
+</article>

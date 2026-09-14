@@ -1,68 +1,33 @@
 +++
-date = '2025-11-03T12:45:25-05:00'
-title = 'About'
-draft = false
-
-# PaperMod page-level options (nice-to-have)
+title = "About"
+description = "Jonathan Taylor's background in data intelligence, business, psychology, and operational leadership."
+layout = "detail"
 showtoc = false
-hideMeta = true         # hides date/reading-time on the page
-disableShare = true
-tocopen = false
-
-# Optional: show a banner on top of the page
-[cover]
-  image = "/images/headshot.jpg"  # keep your inline image too if you like
-  alt = "Jonathan Taylor"
-  relative = false
+hideMeta = true
 +++
 
-## Welcome
+## I work where data, operations, and people meet.
 
-<div style="text-align:center; margin: 1rem 0 2rem;">
-  <img
-    src="/images/headshot.jpg"
-    alt="Jonathan Taylor"
-    width="250px"
-    height="350px"
-    style="display: block; margin: auto; border-radius: 50%;"
-  />
-</div>
+I'm Jonathan Taylor, a **Senior Data Intelligence Specialist at Foodbuy**. Since March 2026, I have been helping establish a new team focused on complex data management issues.
 
-Welcome to my personal website! My name is **Jonathan Taylor**, and I’m a recent **MBA** and **MS in Applied Data Analytics** graduate from **Appalachian State University**.
+My work includes building database workflows in Snowflake, performing reconciliation analysis, developing dashboards, and creating new processes. I also work with internal teams to scale our processes and adopt new technology, including AI.
 
-With a background that blends **business, analytics, and psychology**, I bring a people-focused approach to understanding data and solving complex business problems. I’m currently developing my skills through hands-on data projects while pursuing a role in the analytics field.
+I am interested in analytics leadership because the work extends beyond an individual analysis. Teams need clear expectations, useful information, and processes they can rely on. I want to help build those conditions while continuing to deepen my technical understanding.
 
----
+## A background in business and human behavior
 
-## My Background
+I earned an **MBA and an MS in Applied Data Analytics from Appalachian State University**, following a **BS in Psychology**. That combination informs how I approach analytical work: understand the business question, examine the evidence, and consider the people affected by the decision.
 
-My work sits at the intersection of **strategy, analytics, and human behavior**.  
-Before grad school, I earned my B.S. in Psychology and explored how personality and perception shape behavior in online settings. Since then, I’ve moved toward the business side of analytics, learning how insights and storytelling can drive better decisions.
+My honors thesis examined differences between real-life and online-game self-perceptions. It gave me experience with survey design, measurement, statistical analysis, and explaining the limits of a finding.
 
-Through my graduate assistant role with **App State University Recreation**, I’ve managed teams, optimized scheduling systems, and analyzed operational data to improve efficiency. Those experiences taught me that great data work isn’t just technical, but it’s collaborative and human.
+## Experience in operations and team development
 
----
+In University Recreation at Appalachian State, my work included student-staff leadership, scheduling, training, and event operations. I also analyzed scheduling and timeclock records and facility access patterns.
 
-## My Focus
+Those projects connect the operational questions I encountered with the technical work needed to investigate them. The original reports remain available alongside concise case studies and the limitations that matter when interpreting their results.
 
-I’m passionate about projects that connect data to real-world outcomes, such as:
+## Beyond work
 
-- **Workforce analytics** and operations optimization  
-- **Data visualization** and storytelling for strategic decisions  
-- **Forecasting** and data modeling for planning and policy  
-- **Sports and performance analytics**, where data meets motivation  
+I enjoy staying active, talking sports, and exploring how people behave in games and other shared environments. Leadership, mentorship, and helping others develop are interests that carry through my work and life.
 
-Right now, I’m expanding my portfolio in SQL, Power BI, and Python, aiming to bring clarity and momentum to organizations ready to grow through data.
-
----
-
-## Beyond Work
-
-Outside analytics, you’ll usually find me staying active, talking sports, or diving into creative projects that help people learn and improve. I enjoy leadership, mentorship, and friendship. Seeing others progress is one of the most rewarding parts of any role I’ve held.
-
----
-
-## Connect
-
-If any of this resonates, feel free to explore my projects, reach out, or connect on [LinkedIn](https://www.linkedin.com/in/jlt0130/).  
-I’m always open to collaboration, conversation, or simply swapping ideas about how data can make work, and life, a little smarter.
+[Read about my current work](/experience/) or [start a conversation](/contact/).
