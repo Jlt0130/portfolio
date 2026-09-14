@@ -1,30 +1,37 @@
 +++
-title = "Cullowhee Riverside Park Benefit–Cost Analysis"
-summary = "Economic feasibility study using Monte Carlo simulation and the Travel Cost Method to estimate public park benefits."
+title = "Evaluating a proposed recreation investment"
+summary = "An academic benefit-cost analysis using visitation assumptions, travel-cost estimates, and simulation to examine a proposed riverside park."
 date = "2024-04-01"
-tags = ["Econometrics", "Simulation", "Policy Analysis"]
+weight = 6
+category = "Decision analysis"
+period = "Academic project"
+layout = "detail"
+tags = ["Excel", "Simulation", "Benefit-cost analysis"]
 showtoc = false
 hideMeta = true
 url = "/projects/cullowhee-park-analysis/"
 
 [cover]
-  image = "/images/cullowhee_bca.png"
-  alt   = "Benefit-cost analysis chart"
-  relative = false
+image = "/images/cullowhee_bca.png"
+alt = "Historical benefit-cost analysis of Cullowhee Riverside Park"
+relative = false
+hidden = true
 +++
 
-**What I did**
-- Estimated recreation value using OLS regression of visitor spending and distance.
-- Ran 10,000 Monte Carlo iterations to simulate cost–benefit distributions.
-- Calculated NPV, benefit–cost ratio, and internal rate of return.
-- Communicated findings to support public policy and grant proposals.
+## The question
 
-**Results**
-- Forecasted expected NPV ≈ $3.95 M with benefit–cost ratio > 1.
-- Demonstrated project feasibility under multiple uncertainty scenarios.
+Under what assumptions could the benefits of a proposed riverside park exceed its costs?
 
-**Tools Used**
-- Excel, Monte Carlo Simulations, Economic Modeling
+## My contribution
 
-**Links**
-- [PDF Report](/documents/cullowhee_bca.pdf)
+I developed visitation scenarios, examined recreation-value estimates using the travel-cost method, and used Excel to explore uncertainty. The report documents 1,000 Monte Carlo trials, a net-present-value calculation, and sensitivity analysis at different discount rates.
+
+## What the exercise showed
+
+The historical scenarios produced positive long-term net present values under the selected assumptions. That conclusion depends on the inputs: projected visitation, value per visit, costs, discount rates, and the period over which benefits accrue.
+
+The project demonstrates how to make an investment argument explicit and examine its sensitivity to assumptions. It does not establish the park's current value, funding status, or realized impact. Revisiting the analysis would require updated sources and the original workbook.
+
+## Explore the work
+
+[Read the original benefit-cost report (PDF)](/documents/cullowhee_bca.pdf).

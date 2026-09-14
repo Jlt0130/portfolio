@@ -1,31 +1,41 @@
 +++
-title = "U.S. Fossil Fuel Electricity Generation Forecast"
-summary = "Time-series forecasting in R using ARIMA to analyze decade-long energy trends and future projections."
+title = "Comparing electricity forecasts"
+summary = "An R forecasting study comparing benchmarks, exponential smoothing, ARIMA, and ensembles for US fossil-fuel electricity generation."
 date = "2024-05-10"
-tags = ["R", "ARIMA", "Forecasting"]
+weight = 4
+category = "Forecasting"
+period = "Academic project"
+layout = "detail"
+tags = ["R", "Forecasting", "Model evaluation"]
 showtoc = false
 hideMeta = true
 url = "/projects/fossil-fuel-forecast/"
 
 [cover]
-  image = "/images/arima2_forecast.png"
-  alt   = "ARIMA forecast visualization"
-  relative = false
+image = "/images/arima2_forecast.png"
+alt = "Historical forecast of fossil-fuel electricity generation"
+relative = false
+hidden = true
 +++
 
-**What I did**
-- Cleaned and prepared monthly EIA energy datasets.
-- Modeled fossil fuel generation using ARIMA with seasonal differencing.
-- Evaluated forecast accuracy through MAPE and residual diagnostics.
-- Visualized output trends and scenario forecasts with ggplot2.
+## The question
 
-**Results**
-- Identified long-term decline in fossil fuel usage with projected stagnation ahead.
-- Provided policy insight for accelerating renewable transitions.
+How did forecasts from simple benchmarks compare with more complex models of US electricity generation from fossil fuels?
 
-**Tools Used**
-- R, ggplot2, Forecasting, dplyr
+## My contribution
 
-**Links**
-- [GitHub Repo](https://github.com/jlt0130/us-fossil-fuel-forecast)
-- [PDF Report](/documents/us_fossil_fuel_forecast.pdf)
+I worked with annual observations from Our World in Data and used R to explore transformations, time-series patterns, residuals, and forecast accuracy. The report compares mean, naive, and drift benchmarks with exponential smoothing, ARIMA, and combinations of model forecasts.
+
+## What the historical comparison showed
+
+The report's final accuracy table ranks its model named "arima2" ahead of the other candidates. The naive method performs best among the simple benchmarks. These are results documented in the original report, rather than independently reproduced scores.
+
+## What a new version would improve
+
+The report's unit labels and transformations need verification against the source data. Its short annual series also limits confidence in a long forecast horizon. A stronger follow-up would use an explicit source snapshot, check units and model specifications, and compare forecasts across multiple historical cutoffs.
+
+This project illustrates model comparison and communicating uncertainty. The old forecast is a historical exercise, not a current energy outlook.
+
+## Explore the work
+
+[Read the original forecasting report (PDF)](/documents/us_fossil_fuel_forecast.pdf).
