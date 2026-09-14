@@ -25,6 +25,8 @@ hugo server --bind 127.0.0.1 --port 4387 --baseURL http://127.0.0.1:4387/ --dest
 
 The production build uses `public/`. Keep the preview destination separate so a production build cannot replace preview links with the production URL.
 
+`netlify.toml` gives pull-request previews their own base URL, so navigation and assets remain within the preview. Production retains the existing Netlify build settings.
+
 ## Content evidence
 
 The September 2026 update uses Jonathan's confirmed title, employer, dates, leadership direction, and high-level current responsibilities. It does not claim managerial authority, completed production adoption, or quantified business outcomes that have not been supplied.
